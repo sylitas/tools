@@ -1,0 +1,5 @@
+.env
+config.js
+config_new.js
+config.json
+node_modules
